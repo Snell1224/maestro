@@ -22,9 +22,9 @@ Welcome To OVIS-HPC Documentation!
    :caption: OVIS and Group Activity
 
    About Ovis <https://ovis-hpc-personal.readthedocs.io/en/latest/aboutovis.html>
-   LDMS Users Group Conference <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
+   LDMS Users Group Conference (LDMSCON) <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
    LDSM Users Group <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ug.html>
-   publications <https://ovis-hpc-personal.readthedocs.io/en/latest/publications.html>
+   OVIS Publications <https://ovis-hpc-personal.readthedocs.io/en/latest/publications.html>
 
 .. toctree::
    :maxdepth: 4
@@ -35,7 +35,7 @@ Welcome To OVIS-HPC Documentation!
    maestro-index
    Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/baler-index.html>
    AppSysFusion <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/index.html>
-   Deployment <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/deployment/index.html>
+   Deployment <https://ovis-hpc-personal.readthedocs.io/en/latest/deployment/index.html>
    
 Other Projects
 ====================================
