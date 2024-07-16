@@ -1,7 +1,7 @@
 OVIS-HPC Maestro Documentation
 ########################
 
-This repository hosts all Maestro related documentation such as how-to tutorials, getting started with Maestro, docker-hub links, API's and much more. Documentation webpage can be found in the `Maestro readthedocs webpage <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/>`_
+This repository hosts all Maestro related documentation such as how-to tutorials, getting started with Maestro, docker-hub links, API's and much more. Documentation webpage can be found in the `Maestro readthedocs webpage <https://ovis-hpc.readthedocs.io/projects/maestro/en/latest/>`_
 
 Contributing to ReadTheDocs
 ############################
