@@ -35,7 +35,17 @@ Welcome To OVIS-HPC Documentation!
    maestro-index
    Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/baler-index.html>
    AppSysFusion <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/index.html>
-   Deployment <https://ovis-hpc-personal.readthedocs.io/en/latest/deployment/index.html>
+
+.. toctree::
+   :maxdepth: 6
+   :caption: Deployment
+
+   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/deployment/index.html>
+   SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/deployment/index.html>
+   deployment/index
+   Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/deployment/index.html>
+   AppSysFusion <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/deployment/index.html>
+
    
 Other Projects
 ====================================
